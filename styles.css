@@ -36,6 +36,8 @@ a[class="nav-link"] {
     color: #d75454;
 }
 
+
+
 p {
     margin: 15px 0;
     text-indent: 20px;
@@ -78,6 +80,10 @@ code {
 }
 
 @media screen and (max-width: 640px) {
+    html {
+        scroll-padding-top: 380px;
+    }
+
     #navbar {
     width: 100%;
     position: fixed;
@@ -91,6 +97,7 @@ code {
     padding: 20px;
     }
 
-    #Introduction {
-    padding-top: 370px;
+    #divider {
+    height: 380px;
+    }
 }
