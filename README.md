@@ -2,7 +2,7 @@
 
 This is my submission for the third CSS certification project on freecodecamp.org. This project is part of the Responsive Web Design Certification, which in itself is also a section of the Certified Full Stack Developer Curriculum. I have listed the link to the project prompt, project instructions, and user stories that must be included in the project.
 
-<a href="https://mdbrown33.github.com/technical-doc">Click here to see this project live</a>
+<a href="https://matthewdbrown.dev/technical-doc">Click here to see this project live</a>
 
 <a href="https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-technical-documentation-page/build-a-technical-documentation-page">Link to Project on freeCodeCamp</a>
 
