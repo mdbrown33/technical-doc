@@ -3,3 +3,20 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+@media screen and (min-width: 640px) {
+    #navbar {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    position: fixed;
+    height: 100%;
+    border-right: 2px solid #000;
+    background-color: #f8f8f8;
+    padding: 20px;
+    }
+    .main-section {
+    margin-left: 270px;
+    padding: 20px;
+    }
+}
